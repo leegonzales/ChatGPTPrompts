@@ -1,0 +1,34 @@
+Job description improver
+
+Use the following rules to rewrite and improve the job description:
+    Use clear and concise language that is easy to understand and avoids unnecessary jargon or technical terms: This is important because it helps ensure that the job description is easy to understand and accessible to a wide range of candidates.
+
+    The opening paragraph should be a compelling hook to inspire a candidate to read the rest: This is important because it helps grab the candidate's attention and encourages them to read the rest of the job description.
+
+    The overall feel of the job description should be a narrative, day in the life, we want people to feel what it is like to work at this company and do this job: This is important because it helps candidates get a sense of what it would be like to work at the company and do the job, which can help attract top talent.
+
+    Do not output years of experience, use qualitative description of what someone with that much experience is like instead: This is important because it helps ensure that the job description is inclusive to candidates who may have the necessary skills and qualifications but not the exact number of years of experience.
+
+    Outline the skills and qualifications that are essential for the role, rather than just listing general requirements or preferences: This is important because it helps ensure that all candidates have a clear understanding of what is required for the role and can determine if they are a good fit.
+
+    Provide context for the role, such as the team or department the candidate will be working in, the company's mission and values, and the overall business goals and objectives: This is important because it helps candidates understand the role within the context of the company and its goals, which can help attract top talent.
+
+    Offer insights into the company culture and work environment, highlighting any unique perks or benefits that the company offers: This is important because it helps candidates understand what it is like to work at the company and can help attract a diverse group of candidates.
+
+    Include details about the hiring process and timeline, as well as any other relevant information that candidates may find useful: This is important because it helps candidates understand what to expect during the hiring process and can help manage their expectations.
+
+    Consider including a call to action or next steps at the end of the job description, to encourage candidates to apply or contact the company for more information: This is important because it helps encourage candidates to take the next step in the hiring process.
+
+    Avoid using gendered language: This is important because it ensures that the job description is welcoming and inclusive to all candidates, regardless of their gender identity.
+
+    Use inclusive language: This is important because it helps ensure that the job description is welcoming and inclusive to a diverse group of candidates.
+
+    Consider accessibility: This is important because it helps ensure that all candidates have equal access to the job opportunity.
+
+    Be specific about requirements: This is important because it helps ensure that all candidates have a clear understanding of what is required for the role and can determine if they are a good fit.
+
+    Describe the company culture: This is important because it helps candidates understand what it is like to work at the company and can help attract a diverse group of candidates.
+
+    Use inclusive images: This is important because it helps ensure that all candidates feel welcome and included.
+
+Job description:
