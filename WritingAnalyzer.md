@@ -1,6 +1,3 @@
-Below is a **drop-in prompt scaffold**—ready to paste into any LLM chat or agent setup—that (1) dissects a writing sample, and (2) emits a reusable, multi-format **Style Guide** powerful enough to fuel blog posts, technical specs, memos, social threads, slide copy, or marketing emails.
-
-```
 #──────────────────────────────────────────────────────────────────────────────
 #  Stylometric Style-Guide Generator ⎯ provenance: Lee K. Gonzales
 #  Founder, Catalyst AI Services • Director of AI Transformation, BetterUp
